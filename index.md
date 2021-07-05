@@ -1,11 +1,12 @@
-## Pitch Language Testing
+# Pitch Language Testing
 
+## Headings
 1. Tailored specialist support to develop your business
 2. Want to get specialist support for your business?
 3. You may be eligible for specialist business support
 
 
-## Body Text
+## Page Text
 
 Are you planning new activities to develop your business, tackle a challenge or take advantage of a new opportunity? You may be able to access a package of tailored specialist support.
 
