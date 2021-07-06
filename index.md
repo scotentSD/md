@@ -23,7 +23,7 @@ We have already checked that you meet basic eligibility criteria, and we think y
 
 Get in touch to discuss your idea with a specialist or you can jump straight to the application.
 
-<button type="button">Apply</button>
+<button type="button" id="apply">Apply</button>
 
 If you don’t want to hear from us again, please [just let us know](#)
 
