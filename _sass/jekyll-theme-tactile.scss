@@ -124,7 +124,22 @@ header h2 {
   -webkit-border-radius: 10px;
 }
 
-
+#apply.hover {
+  padding: 8px 18px 8px 18px;
+  margin-right: 14px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #cccccc;
+  background: #0099FF; 
+  border-top: solid 1px #cbcbcb;
+  border-right: solid 1px #b7b7b7;
+  border-bottom: solid 1px #b3b3b3;
+  border-left: solid 1px #b7b7b7;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
 
 a.button {
   display: block;
